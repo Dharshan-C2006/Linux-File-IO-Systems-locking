@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a3aa92b8-6b8e-4df7-9506-37ee94cf2206)# Linux-File-IO-Systems-locking
+## Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 # AIM:
 To Write a C program that illustrates files copying and locking
